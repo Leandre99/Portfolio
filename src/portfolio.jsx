@@ -200,12 +200,10 @@ const Portfolio = () => {
           <div className="hero-image">
             <div className="image-wrapper">
               <div className="image-bg"></div>
-              {/* PLACEHOLDER: Remplacez cette div par votre photo */}
               <div className="profile-placeholder">
                 <div className="placeholder-icon">📸</div>
-                <div className="placeholder-text">Votre photo ici</div>
+                <div className="placeholder-text"> <img src="votre-photo.png" alt="Léandre ELISHA" className="profile-image" /></div>
               </div>
-              <img src="votre-photo.png" alt="Léandre ELISHA" className="profile-image" />
             </div>
             <div className="floating-card tech-card">
               <Code size={24} className="card-icon" />
@@ -494,7 +492,7 @@ const Portfolio = () => {
               <a href="https://github.com/leandre99" target="_blank" rel="noopener noreferrer" className="social-link">
                 <Github size={24} />
               </a>
-              <a href="https://linkedin.com/in/leandreelisha" target="_blank" rel="noopener noreferrer" className="social-link">
+              <a href="https://www.linkedin.com/in/l%C3%A9andre-elisha-386790262/" target="_blank" rel="noopener noreferrer" className="social-link">
                 <Linkedin size={24} />
               </a>
             </div>
