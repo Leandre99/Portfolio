@@ -201,7 +201,6 @@ const Portfolio = () => {
             <div className="image-wrapper">
               <div className="image-bg"></div>
               <div className="profile-placeholder">
-                <div className="placeholder-icon">📸</div>
                 <div className="placeholder-text"> <img src="/votre-photo.png" alt="Léandre ELISHA" className="profile-image" /></div>
               </div>
             </div>
