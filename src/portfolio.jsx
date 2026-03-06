@@ -106,7 +106,7 @@ const Portfolio = () => {
     },
     {
       title: 'Application Web NOVATECH VISION',
-      tech: ['React', 'Django', 'PostgreSQL'],
+      tech: ['Laravel', 'Vuejs'],
       description: 'Plateforme web pour entreprise avec gestion de contenu et tableau de bord analytique.',
       highlights: ['Dashboard interactif', 'Performance optimisée', 'UX/UI moderne']
     },
