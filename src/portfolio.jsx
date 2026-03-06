@@ -99,7 +99,7 @@ const Portfolio = () => {
 
   const projects = [
     {
-      title: 'Application Intranet JTESolutions',
+      title: 'Application Intranet JTEKSolutions',
       tech: ['Angular', 'Python', 'PostgreSQL'],
       description: 'Application web complète pour la gestion interne de l\'entreprise avec authentification, gestion des utilisateurs et modules métier.',
       highlights: ['Architecture MVC', 'API REST', 'Interface responsive']
