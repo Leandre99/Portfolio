@@ -46,8 +46,7 @@ const Portfolio = () => {
     backend: [
       { name: 'Python/Django', level: 85, icon: '🐍' },
       { name: 'Laravel/PHP', level: 80, icon: '🐘' },
-      { name: 'FastAPI', level: 75, icon: '⚡' },
-      { name: 'Java', level: 70, icon: '☕' }
+      { name: 'SpringBoot', level: 70, icon: '☕' }
     ],
     database: [
       { name: 'PostgreSQL', level: 85, icon: '🐘' },
@@ -58,7 +57,7 @@ const Portfolio = () => {
       { name: 'Docker', level: 75, icon: '🐳' },
       { name: 'Git', level: 85, icon: '📦' },
       { name: 'VS Code', level: 90, icon: '💻' },
-      { name: 'Postman', level: 85, icon: '📮' }
+      { name: 'Postman', level: 85, icon: '📮' },
     ]
   };
 
