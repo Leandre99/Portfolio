@@ -483,7 +483,7 @@ const Portfolio = () => {
               </a>
               <div className="contact-card">
                 <MapPin className="contact-icon" />
-                <span>Agla Pylône, Abomey-Calavi, Bénin</span>
+                <span>Agla Pylône, CO, Bénin</span>
               </div>
             </div>
             <div className="social-links">
